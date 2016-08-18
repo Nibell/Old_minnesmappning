@@ -1,0 +1,21 @@
+﻿Build started 2012-11-14 12:18:28.
+     1>Project "H:\ÅR 2\OSB304\Labb06\minnesmappning\minnesmappning\minnesmappning.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\minnesmappning.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+       Manifest:
+         All outputs are up-to-date.
+       FinalizeBuildStatus:
+         Deleting file "Debug\minnesmappning.unsuccessfulbuild".
+         Touching "Debug\minnesmappning.lastbuildstate".
+     1>Done Building Project "H:\ÅR 2\OSB304\Labb06\minnesmappning\minnesmappning\minnesmappning.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.48
